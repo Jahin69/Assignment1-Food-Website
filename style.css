@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+}
+#introduction{
+    display: flex;
+    margin-left: 40px;
+}
+.introduction-description{
+    width:50%;
+    margin-top:120px;
+}
+.introduction-description h1{
+    font-size:60px;
+    margin:0;
+    padding:0;
+    color:rgb(87,87,87);
+}
+.introduction-description span{
+    color:#ff5c47;
+}
+.introduction-description p{
+   color:rgb(138,139,138);
+   width: 70%;
+   margin-top: 40px;
+}
+.introduction-image{
+    width: 50%;
+}
+.introduction-image img{
+    width: 90%;
+  
+}
