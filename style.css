@@ -114,3 +114,17 @@ section{
 .recipies p{
     color:#191A1F;
 }
+#social-info{
+    display: flex;
+    padding:0% 20%;
+    justify-content: space-between;
+}
+#social-info h2{
+    color: #18191E;
+    font-size: 40px;
+    margin:0;
+    padding: 0;
+}
+#social-info p{
+    color:#191920;
+}
