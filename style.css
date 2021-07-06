@@ -5,7 +5,7 @@ body{
 }
 section{
     margin:0px 0px 100px 0px;
-    padding: 0px;
+  
     
 }
 #introduction{
@@ -75,4 +75,42 @@ section{
 .About-Us-Description p{
     color:#707070;
 }
+#My-Recipies{
+    padding:0% 5%;
+}
+.Recipies-heading{
+    text-align: center;
+    
+}
+.Recipies-heading h1{
+    font-size:40px;  
+    color: #707070;
+}
+.Recipies-heading p{
+    width:40%;
+    margin:0 auto;
+    color: rgb(138,139,138);
+}
+.Parent{
+    display: flex;
+    margin-top:40px;
+    justify-content: space-between;
 
+}
+.recipies{
+    width:27%;
+    padding: 1%;
+   border-radius: 8px;
+    box-shadow: 3px 3px 20px grey;
+
+}
+.recipies img{
+    width: 100%;
+}
+.recipies h3{
+    color: #18191E;
+    font-size: 26px;
+}
+.recipies p{
+    color:#191A1F;
+}
